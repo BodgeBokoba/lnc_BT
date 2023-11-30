@@ -1,0 +1,3092 @@
+b_UC_lnc_1
+
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000051162.1)
+Bos taurus (cattle) Metazoan signal recognition particle RNA
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000047947.2, ENSBTAG00000050180.1)
+Bos taurus long non-coding RNA NONBTAT024900.2
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000055172.1)
+Bos taurus (cattle) Metazoan signal recognition particle RNA
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000047242.2)
+Bos taurus long non-coding RNA NONBTAT007060.2
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000049700.1)
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000049916.1)
+Bos taurus (cattle) Metazoan signal recognition particle RNA
+Bos taurus (cattle) Metazoan signal recognition particle RNA
+Bos taurus long non-coding RNA NONBTAT018687.2
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000048534.1)
+Bos taurus (cattle) Metazoan signal recognition particle RNA
+Bos taurus long non-coding RNA NONBTAT026416.2
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000053184.1)
+Bos taurus (cattle) Metazoan signal recognition particle RNA
+Bos taurus (cattle) Metazoan signal recognition particle RNA
+Bos taurus long non-coding RNA NONBTAT026261.2
+Bos taurus long non-coding RNA NONBTAT025041.2
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000047359.2)
+Bos taurus (cattle) Metazoan signal recognition particle RNA
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000048346.1)
+Bos taurus long non-coding RNA NONBTAT023997.2
+Bos taurus (cattle) Metazoan signal recognition particle RNA
+Bos taurus long non-coding RNA NONBTAT000313.2
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000045781.2)
+Bos taurus long non-coding RNA NONBTAT015671.2
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000046622.2)
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000048103.2)
+Bos taurus long non-coding RNA NONBTAT018962.2
+Bos taurus (cattle) Metazoan signal recognition particle RNA
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000047006.2)
+Bos taurus (cattle) Metazoan signal recognition particle RNA (ENSBTAG00000046888.2)
+Bos taurus long non-coding RNA NONBTAT022027.2
+Bos taurus (cattle) Metazoan signal recognition particle RNA
+Bos taurus (cattle) Metazoan signal recognition particle RNA
+Bos taurus (cattle) miRNA (ENSBTAG00000048375.1, ENSBTAG00000051213.1)
+Bos taurus (cattle) miRNA (ENSBTAG00000050794.1, ENSBTAG00000052645.1)
+Bos taurus (cattle) miRNA (ENSBTAG00000055071.1)
+Bos taurus long non-coding RNA NONBTAT017293.2
+Bos taurus long non-coding RNA NONBTAT018998.2
+Bos taurus long non-coding RNA NONBTAT004739.2
+Bos taurus long non-coding RNA NONBTAT008298.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000002169.6)
+Bos taurus (cattle) U1 spliceosomal RNA (ENSBTAG00000029683.2)
+Bos taurus long non-coding RNA NONBTAT025422.2
+Bos taurus long non-coding RNA NONBTAT015640.2
+Bos taurus long non-coding RNA NONBTAT017533.2
+Bos taurus long non-coding RNA NONBTAT000511.2
+Bos taurus long non-coding RNA NONBTAT000509.2
+Bos taurus long non-coding RNA NONBTAT024760.2
+Bos taurus long non-coding RNA NONBTAT004766.2
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Microsporidia small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus long non-coding RNA NONBTAT024872.2
+Bos taurus long non-coding RNA NONBTAT024873.2
+Bos taurus long non-coding RNA NONBTAT021805.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000053664.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus long non-coding RNA NONBTAT001711.2
+Bos taurus long non-coding RNA NONBTAT001715.2
+Bos taurus long non-coding RNA NONBTAT001712.2
+Bos taurus long non-coding RNA NONBTAT001714.2
+Bos taurus long non-coding RNA NONBTAT001709.2
+Bos taurus long non-coding RNA NONBTAT001713.2
+Bos taurus long non-coding RNA NONBTAT031085.1
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus long non-coding RNA NONBTAT002842.2
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus tRNA-Cys (GCA) (tRNA-Cys-GCA-20-1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus long non-coding RNA NONBTAT016861.2
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-18940607
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-8495298
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-7632893
+Bos taurus (cattle) ncRNA
+Bos taurus long non-coding RNA NONBTAT000051.2
+Bos taurus long non-coding RNA NONBTAT017456.2
+Bos taurus long non-coding RNA NONBTAT027933.1
+Bos taurus uncharacterized LOC100847759 (LOC100847759)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051151.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051151.1)
+Bos taurus (cattle) sRNA (ENSBTAG00000052648.1)
+Bos taurus (cattle) sRNA (ENSBTAG00000054675.1)
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial large subunit ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S rRNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial large subunit ribosomal RNA
+Bos taurus (cattle) partial large subunit ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) partial large subunit ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S large subunit ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus long non-coding RNA NONBTAT022222.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000049210.1)
+Bos taurus (cattle) tRNA
+Bos taurus long non-coding RNA NONBTAT030700.1
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000052882.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000048418.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051094.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043250.2)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043482.2)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000042601.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000042558.2)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000042618.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043885.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000042716.2)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000042596.3)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043003.3)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043353.2)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043900.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043255.2)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043639.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043944.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043898.3)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000042416.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus long non-coding RNA NONBTAT023514.2
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043768.3)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043458.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043745.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000042118.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043638.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043892.3)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043645.2)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043471.2)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043685.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus uncharacterized LOC100616098 (LOC100616098)
+Bos taurus long non-coding RNA NONBTAT024056.2
+Bos taurus (cattle) microRNA bta-mir-2469 precursor
+Bos taurus long non-coding RNA NONBTAT012570.2
+Bos taurus long non-coding RNA NONBTAT016175.2
+Bos taurus long non-coding RNA NONBTAT028892.1
+Bos taurus (cattle) lncRNA (ENSBTAG00000054912.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051635.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048896.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048896.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048896.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050387.1)
+Bos taurus long non-coding RNA NONBTAT014180.2
+Bos taurus long non-coding RNA NONBTAT002827.2
+Bos taurus (cattle) lnc9141-a
+Bos taurus (cattle) lnc9141-b
+Bos taurus long non-coding RNA NONBTAT009141.2
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000050623.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050623.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052270.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048453.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052722.1)
+Bos taurus long non-coding RNA NONBTAT005717.2
+Bos taurus long non-coding RNA NONBTAT005718.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000049288.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048945.1)
+Bos taurus long non-coding RNA NONBTAT012804.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000053946.1)
+Bos taurus long non-coding RNA NONBTAT016396.2
+Bos taurus long non-coding RNA NONBTAT024266.2
+Bos taurus long non-coding RNA NONBTAT013767.2
+Bos taurus long non-coding RNA NONBTAT008943.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000053641.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053641.1)
+Bos taurus long non-coding RNA NONBTAT026686.2
+Bos taurus long non-coding RNA NONBTAT025998.2
+Bos taurus long non-coding RNA NONBTAT024428.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000053745.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053745.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050585.1)
+Bos taurus long non-coding RNA NONBTAT022624.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000048322.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) microRNA bta-mir-10175 precursor
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000054275.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050807.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051528.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048887.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050145.1)
+Bos taurus long non-coding RNA NONBTAT018681.2
+Bos taurus long non-coding RNA NONBTAT009727.2
+Bos taurus long non-coding RNA NONBTAT017997.2
+Bos taurus long non-coding RNA NONBTAT017999.2
+Bos taurus long non-coding RNA NONBTAT017998.2
+Bos taurus long non-coding RNA NONBTAT023470.2
+Bos taurus long non-coding RNA NONBTAT004996.2
+Bos taurus (cattle) microRNA bta-mir-147 precursor
+Bos taurus (cattle) microRNA mir-147
+Bos taurus (cattle) Bta-Mir-147_pre stem-loop
+Bos taurus (cattle) tRNA-Ser
+Bos taurus (cattle) tRNA (ENSBTAG00000043545.1)
+Bos taurus (cattle) tRNA-Ser
+Bos taurus (cattle) tRNA-Ser
+Bos taurus (cattle) tRNA-Ser
+Bos taurus (cattle) tRNA-Ser
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA-Ser
+Bos taurus (cattle) tRNA-Ser
+Bos taurus (cattle) tRNA-Ser
+Bos taurus (cattle) tRNA-Ser
+Bos taurus (cattle) tRNA-Ser
+Bos taurus (cattle) tRNA-Ser(UCN)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus long non-coding RNA NONBTAT005523.2
+Bos taurus long non-coding RNA NONBTAT019573.2
+Bos taurus long non-coding RNA NONBTAT002713.2
+Bos taurus long non-coding RNA NONBTAT021535.2
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Microsporidia small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-9829990
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-5303753
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-18811414
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-10963375
+Bos taurus long non-coding RNA NONBTAT016517.2
+Bos taurus long non-coding RNA NONBTAT009143.2
+Bos taurus long non-coding RNA NONBTAT023867.2
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000045413.3)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051700.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048349.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049153.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050048.1)
+Bos taurus long non-coding RNA NONBTAT017651.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000053070.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052048.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050973.1)
+Bos taurus long non-coding RNA NONBTAT008200.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000054436.1)
+Bos taurus long non-coding RNA NONBTAT025364.2
+Bos taurus long non-coding RNA NONBTAT015927.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000053385.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053385.1)
+Bos taurus (cattle) ncRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000053571.1)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000045419.2)
+Bos taurus long non-coding RNA NONBTAT013580.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000051203.1)
+Bos taurus long non-coding RNA NONBTAT002847.2
+Bos taurus (cattle) ncRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000052741.1)
+Bos taurus long non-coding RNA NONBTAT022019.2
+Bos taurus long non-coding RNA NONBTAT029805.1
+Bos taurus long non-coding RNA NONBTAT005659.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000053455.1)
+Bos taurus long non-coding RNA NONBTAT011920.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000050215.1)
+Bos taurus long non-coding RNA NONBTAT025236.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000052664.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051695.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052684.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054714.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050003.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051225.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049658.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048867.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048558.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053123.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053791.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053457.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052775.1)
+Bos taurus (cattle) EEF1A lysine methyltransferase 1 (ENSBTAG00000008296.5)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048476.1)
+Bos taurus long non-coding RNA NONBTAT018263.2
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000052624.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054747.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054747.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000052742.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000053530.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053530.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus tRNA-Trp (CCA) (tRNA-Trp-CCA-27-1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053040.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000052168.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000054465.1)
+Bos taurus long non-coding RNA NONBTAT023215.2
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000053422.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053422.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus long non-coding RNA NONBTAT030000.1
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) U5 spliceosomal RNA (ENSBTAG00000045168.2)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000051818.1)
+Bos taurus (cattle) ncRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000052439.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051520.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050003.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052330.1)
+Bos taurus uncharacterized LOC104970589, transcript variant 1 (LOC104970589)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048701.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052897.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051748.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051748.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053754.1)
+Bos taurus long non-coding RNA NONBTAT029460.1
+Bos taurus uncharacterized LOC104970589, transcript variant 2 (LOC104970589)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050044.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052352.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054411.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054411.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052248.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054742.1)
+Bos taurus long non-coding RNA NONBTAT031682.1
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000051317.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050877.1)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) ncRNA
+Bos taurus long non-coding RNA NONBTAT005738.2
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus long non-coding RNA NONBTAT009713.2
+Bos taurus long non-coding RNA NONBTAT009712.2
+Bos taurus long non-coding RNA NONBTAT017292.2
+Bos taurus long non-coding RNA NONBTAT017291.2
+Bos taurus long non-coding RNA NONBTAT017290.2
+Bos taurus long non-coding RNA NONBTAT004075.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000053525.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049218.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050280.1)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000044453.2)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050319.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050319.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050487.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050125.1)
+Bos taurus (cattle) Meg8-IT2
+Bos taurus long non-coding RNA NONBTAT017880.2
+Bos taurus long non-coding RNA NONBTAT017879.2
+Bos taurus long non-coding RNA NONBTAT028262.1
+Bos taurus (cattle) lncRNA (ENSBTAG00000052409.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053729.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049779.1)
+Bos taurus long non-coding RNA NONBTAT027137.1
+Bos taurus (cattle) U6 spliceosomal RNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000051539.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051515.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051539.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052127.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052647.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048413.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049133.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054498.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052027.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053844.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000055238.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048770.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054024.1)
+Bos taurus long non-coding RNA NONBTAT002992.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000052322.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051557.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049905.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048844.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052322.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052150.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052150.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048687.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049138.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048908.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052823.1)
+Bos taurus long non-coding RNA NONBTAT027128.1
+Bos taurus (cattle) lncRNA (ENSBTAG00000051857.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049048.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000055141.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049242.1)
+Bos taurus long non-coding RNA NONBTAT026661.2
+Bos taurus (cattle) LINC24065-v4
+Bos taurus (cattle) partial LINC24065-V4
+Bos taurus long non-coding RNA NONBTAT031089.1
+Bos taurus (cattle) lncRNA (ENSBTAG00000052258.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050650.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048748.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050332.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053494.1)
+Bos taurus long non-coding RNA NONBTAT027375.1
+Bos taurus (cattle) lncRNA (ENSBTAG00000052091.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052990.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000055097.1)
+Bos taurus long non-coding RNA NONBTAT023180.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000055195.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048535.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048590.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051019.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054984.1)
+Bos taurus long non-coding RNA NONBTAT028126.1
+Bos taurus long non-coding RNA NONBTAT021809.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000049095.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050899.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049467.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050108.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050108.1)
+Bos taurus long non-coding RNA NONBTAT030214.1
+Bos taurus long non-coding RNA NONBTAT000556.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000051175.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053158.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050036.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050036.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052484.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051720.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053603.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052982.1)
+Bos taurus (cattle) ncRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000051108.1)
+Bos taurus long non-coding RNA NONBTAT018699.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000048700.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000055219.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048808.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053478.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049149.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052244.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050823.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053181.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053181.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049289.1)
+Bos taurus long non-coding RNA NONBTAT030227.1
+Bos taurus long non-coding RNA NONBTAT013965.2
+Bos taurus SSU rRNA
+Bos taurus (cattle) Microsporidia small subunit ribosomal RNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Microsporidia small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Microsporidia small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Microsporidia small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Microsporidia small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Archaeal large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Archaeal large subunit ribosomal RNA
+Bos taurus (cattle) Archaeal large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000053353.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053464.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048367.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048367.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048367.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048498.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051735.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049413.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050311.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051578.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) LINC24062
+Bos taurus long non-coding RNA NONBTAT025031.2
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus long non-coding RNA NONBTAT024165.2
+Bos taurus long non-coding RNA NONBTAT021825.2
+Bos taurus long non-coding RNA NONBTAT025234.2
+Bos taurus long non-coding RNA NONBTAT025146.2
+Bos taurus long non-coding RNA NONBTAT018808.2
+Bos taurus long non-coding RNA NONBTAT017762.2
+Bos taurus long non-coding RNA NONBTAT000236.2
+Bos taurus adipocyte differentiation-associated long noncoding RNA (ADNCR)
+Bos taurus long non-coding RNA NONBTAT006744.2
+Bos taurus long non-coding RNA NONBTAT023817.2
+Bos taurus (cattle) hypothetical protein LOC616898
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-18339693
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-18386414
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-11179753
+Bos taurus long non-coding RNA NONBTAT024599.2
+Bos taurus SSU rRNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) Microsporidia small subunit ribosomal RNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) Microsporidia small subunit ribosomal RNA
+Bos taurus (cattle) Bacterial small subunit ribosomal RNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) Microsporidia small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) partial 18S ribosomal RNA
+Bos taurus (cattle) partial 18S ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Microsporidia small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) microRNA bta-mir-1282 precursor
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-4673377
+Bos taurus long non-coding RNA NONBTAT014171.2
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus long non-coding RNA NONBTAT015718.2
+Bos taurus long non-coding RNA NONBTAT015717.2
+Bos taurus long non-coding RNA NONBTAT015719.2
+Bos taurus long non-coding RNA NONBTAT029806.1
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus 18S ribosomal RNA (RN18S1)
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) Microsporidia small subunit ribosomal RNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus (cattle) partial 18S rRNA
+Bos taurus (cattle) Eukaryotic small subunit ribosomal RNA
+Bos taurus (cattle) partial 18S ribosomal RNA
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-15715007
+Bos taurus long non-coding RNA NONBTAT009238.2
+Bos taurus long non-coding RNA NONBTAT022842.2
+Bos taurus long non-coding RNA NONBTAT026164.2
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-40273
+Bos taurus (cattle) Bacterial large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) partial 28S ribosomal RNA
+Bos taurus (cattle) partial 28S ribosomal RNA
+Bos taurus (cattle) partial 28S ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-11209549
+Bos taurus long non-coding RNA NONBTAT021712.2
+Bos taurus long non-coding RNA NONBTAT017945.2
+Bos taurus long non-coding RNA NONBTAT017946.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000049838.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049838.1)
+Bos taurus long non-coding RNA NONBTAT020594.2
+Bos taurus long non-coding RNA NONBTAT020595.2
+Bos taurus long non-coding RNA NONBTAT017682.2
+Bos taurus (cattle) tRNA
+Bos taurus long non-coding RNA NONBTAT015252.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000052735.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052735.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052735.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052735.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052735.1)
+Bos taurus long non-coding RNA NONBTAT022181.2
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) Bacterial large subunit ribosomal RNA
+Mitochondrial 16S ribosomal RNA from Bos taurus (PDB 2FTC, chain R)
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) rRNA (ENSBTAG00000043570.1)
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) large subunit ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) partial large subunit ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) partial large subunit ribosomal RNA
+Bos taurus (cattle) partial large subunit ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) partial large subunit ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) partial large subunit ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) partial 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) Bacterial large subunit ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) 16S ribosomal RNA
+Bos taurus (cattle) partial large subunit ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) partial large subunit ribosomal RNA
+Bos taurus (cattle) partial large subunit ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus long non-coding RNA NONBTAT012814.2
+Bos taurus long non-coding RNA NONBTAT017436.2
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-14605832
+Bos taurus (cattle) microRNA bta-mir-3533 precursor
+Bos taurus long non-coding RNA NONBTAT020061.2
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus SSU rRNA
+Bos taurus long non-coding RNA NONBTAT017526.2
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) microRNA mir-692
+Bos taurus (cattle) lncRNA (ENSBTAG00000053447.1)
+Bos taurus long non-coding RNA NONBTAT008315.2
+Bos taurus long non-coding RNA NONBTAT008314.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000052996.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000052040.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051850.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052040.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052040.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048632.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051708.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051708.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054405.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052772.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000055215.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052985.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049859.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054262.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050985.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052365.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052365.1)
+Bos taurus (cattle) partial IPW
+Bos taurus (cattle) partial imprinted in Prader-Willi syndrome
+Bos taurus (cattle) lncRNA (ENSBTAG00000052462.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052922.1)
+Bos taurus long non-coding RNA NONBTAT006231.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000053457.1)
+Bos taurus long non-coding RNA NONBTAT023866.2
+Bos taurus (cattle) partial Xist activator
+Bos taurus (cattle) lncRNA (ENSBTAG00000053611.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049854.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053043.1)
+Bos taurus long non-coding RNA NONBTAT011870.2
+Bos taurus long non-coding RNA NONBTAT011868.2
+Bos taurus long non-coding RNA NONBTAT011869.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000052918.1)
+Bos taurus long non-coding RNA NONBTAT030224.1
+Bos taurus (cattle) lncRNA (ENSBTAG00000052654.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049934.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051048.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051048.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051271.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051271.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052927.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048805.1)
+Bos taurus long non-coding RNA NONBTAT027065.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000049314.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052915.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054716.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052856.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052029.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053362.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053362.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050524.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049570.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051018.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049337.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049475.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052126.1)
+Bos taurus long non-coding RNA NONBTAT023746.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000054487.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050867.1)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043171.3)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053483.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054196.1)
+Bos taurus long non-coding RNA NONBTAT030226.1
+Bos taurus (cattle) lncRNA (ENSBTAG00000051276.1)
+Bos taurus long non-coding RNA NONBTAT000483.2
+Bos taurus long non-coding RNA NONBTAT011874.2
+Bos taurus long non-coding RNA NONBTAT011872.2
+Bos taurus long non-coding RNA NONBTAT011873.2
+Bos taurus long non-coding RNA NONBTAT011871.2
+Bos taurus long non-coding RNA NONBTAT011875.2
+Bos taurus long non-coding RNA NONBTAT018282.2
+Bos taurus long non-coding RNA NONBTAT021790.2
+Bos taurus long non-coding RNA NONBTAT017665.2
+Bos taurus long non-coding RNA NONBTAT030136.1
+Bos taurus long non-coding RNA NONBTAT030135.1
+Bos taurus long non-coding RNA NONBTAT030137.1
+Bos taurus long non-coding RNA NONBTAT017667.2
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) Product small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) Bacterial small subunit ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) rRNA (ENSBTAG00000043567.1)
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) small subunit ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 16S ribosomal RNA
+Bos taurus (cattle) 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) partial 12S ribosomal RNA
+Bos taurus (cattle) partial 12S rRNA
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000052640.1)
+Bos taurus LOC100271850-MEF2B readthrough transcript (LOC100271850-MEF2B)
+Bos taurus long non-coding RNA NONBTAT017344.2
+Bos taurus (cattle) microRNA mir-684
+Bos taurus (cattle) microRNA mir-684
+Bos taurus (cattle) microRNA mir-684
+Bos taurus (cattle) microRNA mir-684
+Bos taurus long non-coding RNA NONBTAT026662.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000054817.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048837.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052802.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052941.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051124.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054373.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049199.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051736.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052063.1)
+Bos taurus long non-coding RNA NONBTAT009608.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000053328.1)
+Bos taurus (cattle) ncRNA
+Bos taurus (cattle) ncRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000051561.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000055239.1)
+Bos taurus long non-coding RNA NONBTAT030937.1
+Bos taurus (cattle) lncRNA (ENSBTAG00000052276.1)
+Bos taurus long non-coding RNA NONBTAT028887.1
+Bos taurus (cattle) lncRNA (ENSBTAG00000048396.1)
+Bos taurus long non-coding RNA NONBTAT027373.1
+Bos taurus (cattle) U1 spliceosomal RNA (ENSBTAG00000036959.2)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054796.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050760.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050153.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052103.1)
+Bos taurus bacterial LSU rRNA
+Bos taurus (cattle) similar to 12S ribosomal RNA
+Bos taurus long non-coding RNA NONBTAT016771.2
+Bos taurus long non-coding RNA NONBTAT016773.2
+Bos taurus long non-coding RNA NONBTAT016774.2
+Bos taurus long non-coding RNA NONBTAT016775.2
+Bos taurus long non-coding RNA NONBTAT016776.2
+Bos taurus long non-coding RNA NONBTAT012630.2
+Bos taurus mitoregulin (MTLN)
+Bos taurus (cattle) Bacterial small subunit ribosomal RNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000050867.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049529.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054651.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054651.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052902.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049549.1)
+Bos taurus long non-coding RNA NONBTAT006285.2
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000043830.3)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050739.1)
+Bos taurus (cattle) partial small subunit ribosomal RNA
+Bos taurus bacterial SSU rRNA
+Bos taurus long non-coding RNA NONBTAT014806.2
+Bos taurus long non-coding RNA NONBTAT021905.2
+Bos taurus long non-coding RNA NONBTAT023466.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000048764.1)
+Bos taurus long non-coding RNA NONBTAT023468.2
+Bos taurus long non-coding RNA NONBTAT023467.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000048853.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049130.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus KANTR integral membrane protein, transcript variant 2 (KANTR)
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000045101.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus long non-coding RNA NONBTAT000614.2
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000054601.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049824.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052017.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054116.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050486.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050271.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054831.1)
+Bos taurus long non-coding RNA NONBTAT004129.2
+Bos taurus long non-coding RNA NONBTAT014817.2
+Bos taurus long non-coding RNA NONBTAT014818.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000055175.1)
+Bos taurus long non-coding RNA NONBTAT022242.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000051420.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053343.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050772.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050772.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000053194.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000055264.1)
+Bos taurus (cattle) Meg8-IT3
+Bos taurus (cattle) lncRNA (ENSBTAG00000053383.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000051242.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052424.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054415.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054043.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052151.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054537.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000052847.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000054657.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050807.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000049074.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000055063.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000048320.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) 7SK RNA (ENSBTAG00000046465.2)
+Bos taurus (cattle) 7SK RNA
+Bos taurus (cattle) lncRNA (ENSBTAG00000053305.1)
+Bos taurus (cattle) tRNA
+Bos taurus long non-coding RNA NONBTAT027798.1
+Bos taurus (cattle) tRNA
+Bos taurus long non-coding RNA NONBTAT005778.2
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus long non-coding RNA NONBTAT001658.2
+Bos taurus long non-coding RNA NONBTAT022597.2
+Bos taurus long non-coding RNA NONBTAT000996.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000048781.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048781.1)
+Bos taurus long non-coding RNA NONBTAT017176.2
+Bos taurus long non-coding RNA NONBTAT021996.2
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus 28S ribosomal RNA (RN28S1)
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-10341019
+Bos taurus long non-coding RNA NONBTAT018025.2
+Bos taurus long non-coding RNA NONBTAT000787.2
+Bos taurus long non-coding RNA NONBTAT023206.2
+Bos taurus long non-coding RNA NONBTAT019561.2
+Bos taurus long non-coding RNA NONBTAT024836.2
+Bos taurus long non-coding RNA NONBTAT021621.2
+Bos taurus long non-coding RNA NONBTAT017704.2
+Bos taurus (cattle) lncRNA (ENSBTAG00000050739.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000050739.1)
+Bos taurus (cattle) lncRNA (ENSBTAG00000048545.1)
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus (cattle) tRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial LSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-4939508
+Bos taurus (cattle) Bos_taurus piRNA piR-bta-8563006
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus eukaryotic LSU rRNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus (cattle) Eukaryotic large subunit ribosomal RNA
+Bos taurus long non-coding RNA NONBTAT004960.2
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+Bos taurus bacterial SSU rRNA
+
+
